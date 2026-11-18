@@ -17,6 +17,7 @@
 
 The `vercel.json` rewrite supports direct navigation and refreshes on React Router routes. The API URL defaults to the production backend above. For local development against a local backend, create `.env.local` with `VITE_API_BASE_URL=http://localhost:5000`; do not commit `.env.local`.
 
+https://samicapitalx.vercel.app/
 ## Local checks
 
 ```sh
